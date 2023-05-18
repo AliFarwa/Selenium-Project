@@ -12,7 +12,7 @@ public class HW1 {
     //Note: use name or id as locators
   public static void main(String[] args) throws InterruptedException {
        WebDriver driver=new ChromeDriver();
-//        driver.navigate().to("https://parabank.parasoft.com/parabank/register.htm;jsessionid=B8DD31FF0AFEDBDF4454B27BBC5C05B0%22");
+       driver.navigate().to("https://parabank.parasoft.com/parabank/register.htm;jsessionid=B8DD31FF0AFEDBDF4454B27BBC5C05B0%22");
       driver.manage().window().maximize();
        driver.findElement(By.id("customer.firstName")).sendKeys("Megan");
        driver.findElement(By.id("customer.lastName")).sendKeys("Bowels");

@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fcbfc1b-c9d6-4782-8097-b8b35aa37e09" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HomeWorks/HW1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomeWorks/HW1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HomeWorks/HW2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomeWorks/HW2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +23,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b6e9db56-2ea8-4bc6-a6ac-aba18ac98340" />
+        <option name="url" value="https://github.com/AliFarwa/Selenium-Project.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -58,7 +68,7 @@
       <recent name="class01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HW1">
+  <component name="RunManager" selected="Application.HW3">
     <configuration name="HW1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWorks.HW1" />
       <module name="seleniumSDETbatch16" />
@@ -72,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocatingElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01.LocatingElements" />
+    <configuration name="HW2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWorks.HW2" />
       <module name="seleniumSDETbatch16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01.*" />
+          <option name="PATTERN" value="HomeWorks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +95,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NavigateCommand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01.NavigateCommand" />
+    <configuration name="HW3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWorks.HW3" />
       <module name="seleniumSDETbatch16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01.*" />
+          <option name="PATTERN" value="HomeWorks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocatorTagName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class02.LocatorTagName" />
+      <module name="seleniumSDETbatch16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Locators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class02.Locators" />
+      <module name="seleniumSDETbatch16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,9 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HW3" />
+        <item itemvalue="Application.LocatorTagName" />
+        <item itemvalue="Application.Locators" />
+        <item itemvalue="Application.HW2" />
         <item itemvalue="Application.HW1" />
-        <item itemvalue="Application.LocatingElements" />
-        <item itemvalue="Application.NavigateCommand" />
       </list>
     </recent_temporary>
   </component>
