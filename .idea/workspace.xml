@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fcbfc1b-c9d6-4782-8097-b8b35aa37e09" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,13 +66,13 @@
       <recent name="class01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HW5">
-    <configuration name="CSSDEMO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class03.CSSDEMO" />
+  <component name="RunManager" selected="Application.HW7">
+    <configuration name="CheckBoxDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class04.CheckBoxDemo" />
       <module name="seleniumSDETbatch16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class03.*" />
+          <option name="PATTERN" value="Class04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,8 +80,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWorks.HW3" />
+    <configuration name="DropDowns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class04.DropDowns" />
+      <module name="seleniumSDETbatch16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWorks.HW6" />
       <module name="seleniumSDETbatch16" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWorks.HW4" />
+    <configuration name="HW7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWorks.HW7" />
       <module name="seleniumSDETbatch16" />
       <extension name="coverage">
         <pattern>
@@ -107,25 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWorks.HW5" />
+    <configuration name="MultiDropDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class04.MultiDropDown" />
       <module name="seleniumSDETbatch16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWorks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="XpathDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class03.XpathDemo" />
-      <module name="seleniumSDETbatch16" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Class03.*" />
+          <option name="PATTERN" value="Class04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HW5" />
-        <item itemvalue="Application.HW4" />
-        <item itemvalue="Application.CSSDEMO" />
-        <item itemvalue="Application.XpathDemo" />
-        <item itemvalue="Application.HW3" />
+        <item itemvalue="Application.HW7" />
+        <item itemvalue="Application.HW6" />
+        <item itemvalue="Application.MultiDropDown" />
+        <item itemvalue="Application.DropDowns" />
+        <item itemvalue="Application.CheckBoxDemo" />
       </list>
     </recent_temporary>
   </component>
