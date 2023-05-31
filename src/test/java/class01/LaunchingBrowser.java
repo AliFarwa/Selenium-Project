@@ -9,11 +9,12 @@ public class LaunchingBrowser {
 
       WebDriver driver=new ChromeDriver();
         //use.get(url)to navigate to the desired url
+        driver.get("https://www.google.com");
        //maximize the window
       driver.manage().window().maximize();
         //get the current url
     String currentUrl= driver.getCurrentUrl();
-      System.out.println("the current url od the website is : "+ currentUrl);
+      System.out.println("the current url of the website is : "+ currentUrl);
        //get the title of the page
       String title =driver.getTitle();
        System.out.println(" The title of the webpage is : " +title);

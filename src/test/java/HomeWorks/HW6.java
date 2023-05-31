@@ -9,7 +9,7 @@ import static Class03.CommonMethods.driver;
 import static Utils.CommonMethods.openBrowserAndLaunchApplication;
 
 public class HW6 extends CommonMethods {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
 //HW1:
 //goto   http://practice.syntaxtechs.net/basic-select-dropdown-demo.php
 //select , tuesday, thursday and friday one by one
@@ -25,11 +25,13 @@ public class HW6 extends CommonMethods {
         //methods to select desired option
         //select by index
         day.selectByIndex(3);
+        Thread.sleep(2000);
         //select by value
         day.selectByValue("Thursday");
+        Thread.sleep(2000);
         //select by
         day.selectByVisibleText("Friday");
-
+        Thread.sleep(5000);
         driver.quit();
 
 
