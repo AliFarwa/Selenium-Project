@@ -6,10 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5fcbfc1b-c9d6-4782-8097-b8b35aa37e09" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HomeWorks/HW6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomeWorks/HW6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/class01/LaunchingBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/class01/LaunchingBrowser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/class01/LocatingElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/class01/LocatingElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/class01/NavigateCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/class01/NavigateCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HomeWorks/HW8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomeWorks/HW8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Utils/CommonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Utils/CommonMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,13 +68,13 @@
       <recent name="class01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HW9">
-    <configuration name="Alerts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class05.Alerts" />
+  <component name="RunManager" selected="Application.HW10">
+    <configuration name="ExplicitWait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class06.ExplicitWait" />
       <module name="seleniumSDETbatch16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class05.*" />
+          <option name="PATTERN" value="Class06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,21 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Frames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class05.Frames" />
-      <module name="seleniumSDETbatch16" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Class05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HW7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWorks.HW7" />
+    <configuration name="HW10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWorks.HW10" />
       <module name="seleniumSDETbatch16" />
       <extension name="coverage">
         <pattern>
@@ -110,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWorks.HW8" />
+    <configuration name="HW11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWorks.HW11" />
       <module name="seleniumSDETbatch16" />
       <extension name="coverage">
         <pattern>
@@ -136,13 +121,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Locators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class02.Locators" />
+      <module name="seleniumSDETbatch16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HW10" />
+        <item itemvalue="Application.HW11" />
         <item itemvalue="Application.HW9" />
-        <item itemvalue="Application.Frames" />
-        <item itemvalue="Application.HW8" />
-        <item itemvalue="Application.Alerts" />
-        <item itemvalue="Application.HW7" />
+        <item itemvalue="Application.Locators" />
+        <item itemvalue="Application.ExplicitWait" />
       </list>
     </recent_temporary>
   </component>

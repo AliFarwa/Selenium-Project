@@ -1,6 +1,7 @@
 package Utils;
 
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
@@ -27,6 +28,10 @@ public class CommonMethods {
         if(driver!=null) {// it will only work now if the driver was opened/
             driver.quit();
         }
+    }
+    public static void  sendText(String text, WebElement element){
+        element.click();
+        element.sendKeys(text);
     }
 }
 

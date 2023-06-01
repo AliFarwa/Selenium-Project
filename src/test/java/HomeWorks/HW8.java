@@ -17,7 +17,7 @@ public class HW8 extends CommonMethods {
         WebElement button1 = driver.findElement(By.xpath("//button[@onclick='myPromptFunction()']"));
         button1.click();
        // slow down for 2 seconds
-        Thread.sleep(2000);
+        Thread.sleep(4000);
 
         //send keys in the alert box
         Alert keys= driver.switchTo().alert();
