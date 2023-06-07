@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5fcbfc1b-c9d6-4782-8097-b8b35aa37e09" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HomeWorks/HW8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomeWorks/HW8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Class06/WindowHandles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Class06/WindowHandles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HomeWorks/HW10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomeWorks/HW10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Utils/CommonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Utils/CommonMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,13 +69,13 @@
       <recent name="class01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HW10">
-    <configuration name="ExplicitWait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class06.ExplicitWait" />
+  <component name="RunManager" selected="Application.HW12">
+    <configuration name="DynamicTables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class07.DynamicTables" />
       <module name="seleniumSDETbatch16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class06.*" />
+          <option name="PATTERN" value="Class07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWorks.HW10" />
+    <configuration name="HW12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWorks.HW12" />
       <module name="seleniumSDETbatch16" />
       <extension name="coverage">
         <pattern>
@@ -95,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWorks.HW11" />
+    <configuration name="RadioButtons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class04.RadioButtons" />
       <module name="seleniumSDETbatch16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWorks.*" />
+          <option name="PATTERN" value="Class04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWorks.HW9" />
+    <configuration name="Syntaxwebsite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Syntaxwebsite" />
       <module name="seleniumSDETbatch16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWorks.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Locators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class02.Locators" />
+    <configuration name="Tables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class07.Tables" />
       <module name="seleniumSDETbatch16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class02.*" />
+          <option name="PATTERN" value="Class07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HW10" />
-        <item itemvalue="Application.HW11" />
-        <item itemvalue="Application.HW9" />
-        <item itemvalue="Application.Locators" />
-        <item itemvalue="Application.ExplicitWait" />
+        <item itemvalue="Application.HW12" />
+        <item itemvalue="Application.DynamicTables" />
+        <item itemvalue="Application.Tables" />
+        <item itemvalue="Application.Syntaxwebsite" />
+        <item itemvalue="Application.RadioButtons" />
       </list>
     </recent_temporary>
   </component>

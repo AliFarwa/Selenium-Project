@@ -40,6 +40,7 @@ public class WindowHandles extends CommonMethods {
         // switch back to the main psge
 
         driver.switchTo().window(mainPageHandle);
-        System.out.println("The foccus now is on "+driver.getTitle());
+        //check the focus to be sure it is switched
+        System.out.println("The focus now is on "+driver.getTitle());
     }}
 

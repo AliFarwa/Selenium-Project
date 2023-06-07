@@ -18,7 +18,7 @@ public class HW10 extends CommonMethods {
         String browser="chrome";
         openBrowserAndLaunchApplication(url,browser);
         //
-        driver.manage().timeouts().implicitlyWait( Duration.ofSeconds(20));
+        //driver.manage().timeouts().implicitlyWait( Duration.ofSeconds(20));
 
         WebElement startbtn= driver.findElement(By.cssSelector("button#startButton"));
         startbtn.click();

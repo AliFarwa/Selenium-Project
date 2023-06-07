@@ -5,6 +5,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
+import java.time.Duration;
+
 public class CommonMethods {
     public static WebDriver driver;
     public static void openBrowserAndLaunchApplication(String URL, String browser){
@@ -22,6 +24,7 @@ public class CommonMethods {
         driver.manage().window().maximize();
         //navigate to the url
         driver.get(URL);
+       driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
     }
 
     public static void closeBrowser() {
