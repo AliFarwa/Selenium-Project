@@ -48,14 +48,7 @@ public class HW13 extends CommonMethods {
                  }
              }
              isfound=true;
-
-
-
          }
-
-
-
         }
-
     }
 
