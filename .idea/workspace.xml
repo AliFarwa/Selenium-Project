@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fcbfc1b-c9d6-4782-8097-b8b35aa37e09" name="Changes" comment="">
+    <list default="true" id="5fcbfc1b-c9d6-4782-8097-b8b35aa37e09" name="Changes" comment="Selenium work">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Class02/Locators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Class02/Locators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Class03/CommonMethods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Class04/RadioButtonDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Class04/RadioButtonDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Class04/RadioButtons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Class04/RadioButtons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Class05/Alerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Class05/Alerts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Class09/ActionClassDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Class09/ActionClassDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Class09/ActionsDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Class09/ActionsDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Class09/JSExecutorDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Class09/JSExecutorDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Class09/JsExecutorClickOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Class09/JsExecutorClickOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Class09/RightAndDoubleClickActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Class09/RightAndDoubleClickActions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Class09/ScreenShots.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Class09/ScreenShots.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HomeWorks/HW6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomeWorks/HW6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Utils/CommonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Utils/CommonMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,33 +66,7 @@
       <recent name="class01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Practice3">
-    <configuration name="CalenderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Review2.CalenderDemo" />
-      <module name="seleniumSDETbatch16" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Review2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Practice1" />
-      <module name="seleniumSDETbatch16" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.practice5">
     <configuration name="Practice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.Practice2" />
       <module name="seleniumSDETbatch16" />
@@ -145,13 +106,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="practice4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.practice4" />
+      <module name="seleniumSDETbatch16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practice5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.practice5" />
+      <module name="seleniumSDETbatch16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.practice5" />
+        <item itemvalue="Application.practice4" />
         <item itemvalue="Application.Practice3" />
         <item itemvalue="Application.RadioButtonDemo2" />
         <item itemvalue="Application.Practice2" />
-        <item itemvalue="Application.Practice1" />
-        <item itemvalue="Application.CalenderDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -164,6 +151,18 @@
       <option name="presentableId" value="Default" />
       <updated>1684250912739</updated>
     </task>
+    <task id="LOCAL-00001" summary="Selenium work">
+      <created>1687551836940</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687551836940</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Selenium work" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selenium work" />
   </component>
 </project>
