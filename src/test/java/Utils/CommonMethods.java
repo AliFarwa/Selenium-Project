@@ -43,11 +43,11 @@ public class CommonMethods {
         element.sendKeys(text);
     }
 
-    public static void TakeScreenShot(String filename) {
+    public static void ScreenShot(String filename) {
         TakesScreenshot ts = (TakesScreenshot) driver;
         File screenShot = ts.getScreenshotAs(OutputType.FILE);
         try {
-            FileUtils.copyFile(screenShot, new File("C:\\Users\\User\\IdeaProjects\\seleniumSDETbatch16\\screenshot\\testSyntax.png"));
+            FileUtils.copyFile(screenShot, new File(System.getProperty("user.dir")+"\\screenshot\\"+filename+".png"));
 
         } catch (IOException e) {
             e.printStackTrace();

@@ -17,7 +17,10 @@ public class ActionClassDemo1 extends CommonMethods {
 //        Action class
         Actions action=new Actions(driver);
 //        perform the desried action
-        action.moveToElement(signIn);
+        //cursor will move on the sign in option and you will see sign in selected.
+        action.moveToElement(signIn).perform();
+
+
 
     }
 }

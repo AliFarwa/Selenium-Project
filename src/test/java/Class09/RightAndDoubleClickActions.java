@@ -19,7 +19,6 @@ public class RightAndDoubleClickActions extends CommonMethods {
         Actions actions=new Actions(driver);
         //perform the right click
         //right click is also called context click
-
         actions.contextClick(rightclickbtn).perform();
 
         //find the element which is edit option

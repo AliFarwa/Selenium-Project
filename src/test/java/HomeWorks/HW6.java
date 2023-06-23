@@ -5,7 +5,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
 
-import static Class03.CommonMethods.driver;
+
 import static Utils.CommonMethods.openBrowserAndLaunchApplication;
 
 public class HW6 extends CommonMethods {

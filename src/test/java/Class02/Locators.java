@@ -16,6 +16,7 @@ public class Locators {
         //find the webelement username in the website
       WebElement userNameTextBox= driver.findElement(By.id("txtUsername"));
       userNameTextBox.sendKeys("Admin");
+
       //slow down
         Thread.sleep(2000);
       //after sending the username to the textbox clear the textbox

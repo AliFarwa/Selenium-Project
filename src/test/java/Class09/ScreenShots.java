@@ -26,7 +26,7 @@ public class ScreenShots extends CommonMethods {
         TakesScreenshot ts = (TakesScreenshot)driver;
 
 //        take screen shot  as output type FILE
-        File screenShot = ts.getScreenshotAs(OutputType.FILE);
+        File screenShot = ts.getScreenshotAs(OutputType.FILE);//we take screenshot at this step
 
 //        save it in your computer
         FileUtils.copyFile(screenShot,new File("C:\\Users\\User\\IdeaProjects\\seleniumSDETbatch16\\screenshot\\testSyntax.png"));

@@ -6,7 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="5fcbfc1b-c9d6-4782-8097-b8b35aa37e09" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Practice/HalimasCodeClass8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Practice/HalimasCodeClass8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Class02/Locators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Class02/Locators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Class03/CommonMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Class04/RadioButtonDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Class04/RadioButtonDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Class04/RadioButtons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Class04/RadioButtons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Class05/Alerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Class05/Alerts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Class09/ActionClassDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Class09/ActionClassDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Class09/ActionsDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Class09/ActionsDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Class09/JSExecutorDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Class09/JSExecutorDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Class09/JsExecutorClickOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Class09/JsExecutorClickOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Class09/RightAndDoubleClickActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Class09/RightAndDoubleClickActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Class09/ScreenShots.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Class09/ScreenShots.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HomeWorks/HW6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomeWorks/HW6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Utils/CommonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Utils/CommonMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,13 +79,13 @@
       <recent name="class01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ScreenShots">
-    <configuration name="FileUpload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class09.FileUpload" />
+  <component name="RunManager" selected="Application.Practice3">
+    <configuration name="CalenderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Review2.CalenderDemo" />
       <module name="seleniumSDETbatch16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class09.*" />
+          <option name="PATTERN" value="Review2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JSExecutorDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class09.JSExecutorDemo1" />
+    <configuration name="Practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Practice1" />
       <module name="seleniumSDETbatch16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class09.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaScriptExecutorDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class09.JavaScriptExecutorDemo2" />
+    <configuration name="Practice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Practice2" />
       <module name="seleniumSDETbatch16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class09.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JsExecutorClickOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class09.JsExecutorClickOperation" />
+    <configuration name="Practice3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Practice3" />
       <module name="seleniumSDETbatch16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class09.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScreenShots" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class09.ScreenShots" />
+    <configuration name="RadioButtonDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class04.RadioButtonDemo2" />
       <module name="seleniumSDETbatch16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class09.*" />
+          <option name="PATTERN" value="Class04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ScreenShots" />
-        <item itemvalue="Application.FileUpload" />
-        <item itemvalue="Application.JsExecutorClickOperation" />
-        <item itemvalue="Application.JavaScriptExecutorDemo2" />
-        <item itemvalue="Application.JSExecutorDemo1" />
+        <item itemvalue="Application.Practice3" />
+        <item itemvalue="Application.RadioButtonDemo2" />
+        <item itemvalue="Application.Practice2" />
+        <item itemvalue="Application.Practice1" />
+        <item itemvalue="Application.CalenderDemo" />
       </list>
     </recent_temporary>
   </component>

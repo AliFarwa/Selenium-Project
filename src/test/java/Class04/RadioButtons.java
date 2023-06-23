@@ -34,5 +34,7 @@ public class RadioButtons extends CommonMethods {
         // this will return false
         System.out.println("The male radio button is selected : " +r1isSelected);
 
+
+
     }
 }

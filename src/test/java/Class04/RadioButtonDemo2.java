@@ -1,14 +1,15 @@
 package Class04;
 
+import Utils.CommonMethods;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
 import java.util.List;
 
-import static Class03.CommonMethods.driver;
+
 import static Utils.CommonMethods.openBrowserAndLaunchApplication;
 
-public class RadioButtonDemo2 {
+public class RadioButtonDemo2 extends CommonMethods {
     public static void main(String[] args) {
         String url="http://practice.syntaxtechs.net/basic-radiobutton-demo.php";
         String browser="chrome";
